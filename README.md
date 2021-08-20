@@ -1,5 +1,5 @@
 # Automationsetup (Page Object Model framework) 
-This is the simple automation script for UAHEP project to test the login module.
+This is the simple automation framework for PBMIS project 
 ## Pre-requisites
 * python installed
 * Chrome or Mozilla installed  
